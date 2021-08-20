@@ -1,4 +1,4 @@
-# Real-time face detection and capture and vehicle registration number detection at the scene of crime
+# Real-time face detection and vehicle registration number detection at the scene of crime
 
 ## Motivation for the project
 We all know that, a lot of crimes happen at ATMs, banks and other places. And CCTV evidence plays a very important role to nab the culprits. So, the idea was to automate this process to capture details at the scene of crime when the alarm goes off. 
